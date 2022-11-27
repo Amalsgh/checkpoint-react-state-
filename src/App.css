@@ -1,0 +1,16 @@
+* {
+  background-color: rgb(240, 240, 199);
+}
+h1 {
+  color: rgb(240, 63, 63);
+  text-align: center;
+}
+button {
+  border-radius: 1% ;
+  border-color: brown;
+  background-color: bisque;
+  margin-left: 46%;
+  border-style: double;  
+  font-size: larger;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
